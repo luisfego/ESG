@@ -1,0 +1,12 @@
+name: ESG_Simulator
+title: ESG_Simulator
+username:
+account: luisfego
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3676643
+bundleId: 4463143
+url: https://luisfego.shinyapps.io/ESG_Simulator/
+when: 1618268192.52384
+asMultiple: FALSE
+asStatic: FALSE
